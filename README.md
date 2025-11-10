@@ -56,9 +56,9 @@ This project provides a complete pipeline for:
 
 <img width="1920" height="999" alt="9" src="https://github.com/user-attachments/assets/4621bc56-1ede-4dab-b5b2-688f6136d0d6" />
 
-<img width="640" height="480" alt="fig8_plot" src="https://github.com/user-attachments/assets/aec0ebcf-81c0-400c-839d-1c0940bb6b84" />
 
 <img width="1920" height="999" alt="10" src="https://github.com/user-attachments/assets/01122782-492d-49f6-8092-e9505f560531" />
 
 <img width="1920" height="999" alt="11" src="https://github.com/user-attachments/assets/7e9a9848-d37e-4891-837d-89cec0e55a58" />
 
+<img width="640" height="480" alt="fig8_plot" src="https://github.com/user-attachments/assets/aec0ebcf-81c0-400c-839d-1c0940bb6b84" />
