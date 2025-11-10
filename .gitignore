@@ -1,0 +1,33 @@
+# Байт-код, оптимизированные / DLL-файлы
+__pycache__/
+*.py[cod]
+
+# Файлы конфигурации для venv
+.venv
+
+venv/
+env
+# Файлы дистрибутивов и артефакты упаковки
+dist/
+*.egg-info/
+
+# Файлы покрытия, кэши и прочие ненужные файлы
+.coverage
+*.py,cover
+.cache/
+
+# Файлы *.py,cover не несут никакого смысла
+*.py,cover
+
+# Контрольные точки в Jupyter notebook лучше оставить в стороне
+.ipynb_checkpoints
+
+figs
+figs_done
+masks
+masks_done
+masks_sharp
+readme_images
+results
+test
+README.md
